@@ -65,9 +65,7 @@ Deux applications pratiques :
 
 ```
 .
-├── index.html              # Rapport interactif final
-├── 01_prepare_data.R       # Préparation et scoring des données risques
-├── rapport_2025.Rmd        # Source R Markdown
+├── challenge_dataviz2025_equipeTontonsCodeurs.html              # Rapport interactif final
 └── README.md
 ```
 
